@@ -1,0 +1,29 @@
+$_SESSION['user']; Contains email address
+$_SESSION['account']; contains the account level such as gold or silver
+$_SESSION['discount']; contains the percentage related to the account level.
+$_SESSION['MemberNumber']; Contains Member number 
+$_SESSION['Forename']; Contains first name
+$_SESSION['Surname']; Contains last name
+$_SESSION['Street']; contains street
+$_SESSION['Town']; contains town
+$_SESSION['Postcode']; contains postcode 
+
+$_SESSION['option1'] = contains the first item choice
+$_SESSION['option2'] = contains the second item choice
+$_SESSION['option3'] = contains the third item choice
+
+$_SESSION['quantity1'] = contains the quantity of the first choice
+$_SESSION['quantity2'] = contains the quantity of the second choice
+$_SESSION['quantity3'] = contains the quantity of the third choice
+
+$_SESSION['Price1'] contains the price of the first choice
+$_SESSION['Price2'] contains the price of the second choice
+$_SESSION['Price3'] contains the price of the third choice
+
+$_SESSION['InitialQuantity1'] Contains the initial quanitity of the first choice
+$_SESSION['InitialQuantity2'] Contains the initial quanitity of the second choice
+$_SESSION['InitialQuantity3'] Contains the initial quanitity of the third choice
+ 
+$_SESSION['StockNumber1'] Contains the stocknumber of the first choice
+$_SESSION['StockNumber2'] Contains the stocknumber of the second choice
+$_SESSION['StockNumber3'] Contains the stocknumber of the third choice
